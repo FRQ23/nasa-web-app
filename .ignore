@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Except the ch2o and no2 directories
+!ch2o/
+!no2/
+!.ignore
